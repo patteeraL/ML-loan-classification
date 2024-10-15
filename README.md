@@ -1,2 +1,2 @@
 # ML-loan-classification-
-a loan classification using Machine Learning 
+A loan classification using Machine Learning
